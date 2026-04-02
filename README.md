@@ -35,6 +35,24 @@ frontline sales agent to the CEO.
 
 ---
 
+<img width="1276" height="575" alt="image" src="https://github.com/user-attachments/assets/195ad252-4768-4ac5-9368-d9ad5297c05d" />
+
+---
+
+<img width="1249" height="712" alt="image" src="https://github.com/user-attachments/assets/7967264f-49ae-43cb-abac-1c93ae938579" />
+
+---
+
+<img width="1257" height="620" alt="image" src="https://github.com/user-attachments/assets/befe27f5-f908-49ac-b4df-721ac309e060" />
+
+---
+
+<img width="1250" height="731" alt="image" src="https://github.com/user-attachments/assets/1c4da356-8542-46bc-8dfc-c0b836706169" />
+
+---
+<img width="1233" height="705" alt="image" src="https://github.com/user-attachments/assets/db7e6212-4406-4703-ab10-9707baa82434" />
+
+
 ## 🔧 Technical Approach
 
 ### Data Model
